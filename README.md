@@ -6,7 +6,7 @@ A simple GraphQL server.
 
 - Node.js
 - Express.js
-- Apollo
+- GraphQL
 
 ## Acknowledgements
 
